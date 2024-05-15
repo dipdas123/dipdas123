@@ -1,28 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Myself Dipe Kumar Das</h1>
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;UI+/+UX+Designer;Full+Stack+Web+Developer;Aspiring+Learner&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;Native+Android+Developer;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
 
 <p align="center">
-  <em>
-    Myself <b>Dipe Kumar Das</b>, a Senior Flutter & Native Android Developer <b>Computer Science</b> undergraduate from <b>Gandhinagar Insitute of Technology</b>, Gandhinagar.
-    An aspiring <b>Flutter Developer,</b>&nbsp; and <b> Native Android Developer</b> 
-  <br>
-  <b><i>"---Its a difference of just one try between Success and Failure---"</i></b>
+🚀 <b>I'm a Flutter & Native Android Developer</b> 🚀 🔥 Dedicated and seasoned Senior Mobile Application Developer specializing in Flutter, as well as native Java and Kotlin languages. Bringing a wealth of experience and expertise in crafting high-performance, user-friendly mobile applications across various platforms. Known for a strong commitment to quality code, innovative problem-solving, and staying abreast of the latest industry trends. Proven track record of delivering robust and scalable solutions that enhance user experiences. A collaborative team player. 🌟 Obsessed with sleek UI/UX, clean code, and pushing mobile tech boundaries. Let's create jaw-dropping apps together!
 </p>
-
-
-
-
-
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dipe Kumar Das
-=====================================================================================================================================
-
-Flutter & Native Android Developer
-----------------------------------
-
-🚀 I'm a Flutter & Native Android Developer 🚀 🔥 Dedicated and seasoned Senior Mobile Application Developer specializing in Flutter, as well as native Java and Kotlin languages. Bringing a wealth of experience and expertise in crafting high-performance, user-friendly mobile applications across various platforms. Known for a strong commitment to quality code, innovative problem-solving, and staying abreast of the latest industry trends. Proven track record of delivering robust and scalable solutions that enhance user experiences. A collaborative team player. 🌟 Obsessed with sleek UI/UX, clean code, and pushing mobile tech boundaries. Let's create jaw-dropping apps together!
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * ✉️  Reach me at [dip.das000569@gmail.com](mailto:dip.das000569@gmail.com) Or, [dip.das1246@gmail.com](mailto:dip.das1246@gmail.com)
