@@ -47,13 +47,17 @@ Flutter & Native Android Developer
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/alsiam"><img alt="Dipe Kumar Das's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=dipdas123&show_icons=true&count_private=true&theme=react&border_color=FFFFFF&bg_color=0D1117&title_color=A020F0&icon_color=F8D866" height="192px"/></a>
-
 <p align="center">
-  <a href="https://github.com/alsiam">
+  <a href="https://github.com/dipdas123">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
   </a>
 </p>
+
+<a> 
+<a href="https://github.com/dipdas123"><img alt="Dipe Kumar Das's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=dipdas123&show_icons=true&count_private=true&theme=react&border_color=FFFFFF&bg_color=0D1117&title_color=A020F0&icon_color=F8D866" height="192px" width="49.5%"/></a>
+<a href="https://github.com/dipdas123"><img alt="Dipe Kumar Das's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dipdas123&langs_count=5&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+<br/>
+</a>
 
 <a href="https://github.com/dipdas123" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipdas123&langs_count=3&title_color=A020F0&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=false&border_color=FFFFFF&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
