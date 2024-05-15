@@ -29,7 +29,11 @@ Flutter & Native Android Developer
 
 <a href="https://github.com/alsiam"><img alt="Dipe Kumar Das's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=dipdas123&show_icons=true&count_private=true&theme=react&border_color=FFFFFF&bg_color=0D1117&title_color=A020F0&icon_color=F8D866" height="192px" width="49.5%"/></a>
 
-<a href="https://github.com/dipdas123" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipdas123&langs_count=3&title_color=A020F0&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=false&border_color=FFFFFF&locale=en&custom_title=Top%20%Languages%22%20alt=%22Top%20Languages" /></a>
+<a href="https://github.com/dipdas123" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipdas123&langs_count=3&title_color=A020F0&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=false&border_color=FFFFFF&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+
+
 
 
 
