@@ -1,4 +1,22 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dip Kumar Das
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Myself Dipe Kumar Das</h1>
+<p align="center">
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;UI+/+UX+Designer;Full+Stack+Web+Developer;Aspiring+Learner&center=true&width=500&height=50"></a>
+</p>
+
+<p align="center">
+  <em>
+    Myself <b>Dipe Kumar Das</b>, a Senior Flutter & Native Android Developer <b>Computer Science</b> undergraduate from <b>Gandhinagar Insitute of Technology</b>, Gandhinagar.
+    An aspiring <b>Flutter Developer,</b>&nbsp; and <b> Native Android Developer</b> 
+  <br>
+  <b><i>"---Its a difference of just one try between Success and Failure---"</i></b>
+</p>
+
+
+
+
+
+
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dipe Kumar Das
 =====================================================================================================================================
 
 Flutter & Native Android Developer
