@@ -53,7 +53,7 @@ Flutter & Native Android Developer
 
 <p align="center">
   <a href="https://github.com/dipdas123">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Dipe Kumar Das's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dipdas123&theme=radical" alt="Dipe's GitHub Contribution"/>
   </a>
 </p>
 
