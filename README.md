@@ -8,7 +8,7 @@ Flutter & Native Android Developer
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * ✉️  You can contact me at [dip.das000569@gmail.com, dip.das1246@gmail.com]
-* 🚀  I'm currently working on [sManager: ব্যবসার সুপার অ্যাপ](http://play.google.com/store/apps/details?id=xyz.sheba.managerapp&hl=en&gl=US)
+* 🚀  I'm currently working on [sManager: ব্যবসার সুপার অ্যাপ, ssssssss](http://play.google.com/store/apps/details?id=xyz.sheba.managerapp&hl=en&gl=US,http://play.google.com/store/apps/details?id=xyz.sheba.managerapp&hl=en&gl=US)
 * 🤝  I'm open to collaborating on Flutter & Android Projects
 * ⚡  Painting is my favourite hobby 🎨🖌️
 * 🧠  I'm learning GraphQL 📉
