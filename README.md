@@ -4,7 +4,11 @@
 </p>
 
 <p align="center">
-🚀 <b>I'm a Flutter & Native Android Developer</b> 🚀 🔥 Dedicated and seasoned Senior Mobile Application Developer specializing in Flutter, as well as native Java and Kotlin languages. Bringing a wealth of experience and expertise in crafting high-performance, user-friendly mobile applications across various platforms. Known for a strong commitment to quality code, innovative problem-solving, and staying abreast of the latest industry trends. Proven track record of delivering robust and scalable solutions that enhance user experiences. A collaborative team player. 🌟 Obsessed with sleek UI/UX, clean code, and pushing mobile tech boundaries. Let's create jaw-dropping apps together!
+  <em>
+    Myself <b>Dipe Kumar Das</b>, 🚀 <b>I'm a Flutter & Native Android Developer</b> 🚀
+    🔥 Dedicated and seasoned Senior Mobile Application Developer specializing in Flutter, as well as native Java and Kotlin languages. Bringing a wealth of experience and expertise in crafting high-performance, user-friendly mobile applications across various platforms. Known for a strong commitment to quality code, innovative problem-solving, and staying abreast of the latest industry trends. Proven track record of delivering robust and scalable solutions that enhance user experiences. A collaborative team player. 🌟 Obsessed with sleek UI/UX, clean code, and pushing mobile tech boundaries. Let's create jaw-dropping apps together!
+  <br>
+  <b><i>"---Its a difference of just one try between Success and Failure---"</i></b>
 </p>
 
 * 🌍  I'm based in Dhaka, Bangladesh
