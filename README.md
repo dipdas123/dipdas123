@@ -7,11 +7,11 @@ Flutter & Native Android Developer
 🚀 I'm a Flutter & Native Android Developer 🚀 🔥 Dedicated and seasoned Senior Mobile Application Developer specializing in Flutter, as well as native Java and Kotlin languages. Bringing a wealth of experience and expertise in crafting high-performance, user-friendly mobile applications across various platforms. Known for a strong commitment to quality code, innovative problem-solving, and staying abreast of the latest industry trends. Proven track record of delivering robust and scalable solutions that enhance user experiences. A collaborative team player. 🌟 Obsessed with sleek UI/UX, clean code, and pushing mobile tech boundaries. Let's create jaw-dropping apps together!
 
 * 🌍  I'm based in Dhaka, Bangladesh
-* ✉️  You can contact me at [dip.das000569@gmail.com](mailto:dip.das000569@gmail.com)
+* ✉️  You can contact me at [dip.das000569@gmail.com, dip.das1246@gmail.com](mailto:dip.das000569@gmail.com, mailto:dip.das1246@gmail.com)
 * 🚀  I'm currently working on [sManager: ব্যবসার সুপার অ্যাপ](http://play.google.com/store/apps/details?id=xyz.sheba.managerapp&hl=en&gl=US)
-* 🧠  I'm learning GraphQL 📉
 * 🤝  I'm open to collaborating on Flutter & Android Projects
 * ⚡  Painting is my favourite hobby 🎨🖌️
+* 🧠  I'm learning GraphQL 📉
 
 ### Skills
 
